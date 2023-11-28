@@ -1,0 +1,14 @@
+initial permanent income = 55.7
+loan = 27
+
+----- Standard Repayment -----
+utility (real) = 14.903
+utility (interpolate) = 14.9029
+d_utility/d_Y0 = 0.005741
+d_utility/d_Q0 = -0.0004977
+
+----- Income-Based Repayment -----
+utility (real) = 14.9064
+utility (interpolate) = 14.9064
+d_utility/d_Y0 = 0.005575
+d_utility/d_Q0 = -0.0003973
